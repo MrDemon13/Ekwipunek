@@ -12,3 +12,6 @@
   b)!eq
   !eq Mention
   Mention - wspomnienie osoby, której ekwipunek chcesz wyświetlić
+
+# UWAGA WAŻNE!!!
+Musisz utworzyć folder eq w miejscu w którym znajduje się plik index.js bota, bo inaczej schashuje się
