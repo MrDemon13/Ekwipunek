@@ -1,5 +1,6 @@
 # 1.Komendy, które stwożyłem:
  a) !eq_edit - edytuje ekwipunek użytkownika.
+ 
  b) !eq - wyświetla eq użytkownika
 
 # 2.Składnia komend
